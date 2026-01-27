@@ -1,5 +1,7 @@
 # Git Practice
-[AI is already writing almost one-third of new software code, study shows](https://techxplore.com/news/2026-01-ai-software-code.html). by [Complexity Science Hub](https://csh.ac.at/)
+## Article
+[AI is already writing almost one-third of new software code, study shows](https://techxplore.com/news/2026-01-ai-software-code.html)
+by [Complexity Science Hub](https://csh.ac.at/)
 
 ## Interesting Points
 I found it fascinating how rapidly generative AI is being adopted in real-world software development, to the point that almost one‑third of new code in the United States is now being written with AI assistance. This highlights how quickly AI have penetrated daily programming workflows, and how it is shifting the very nature of the craft of coding itself.
